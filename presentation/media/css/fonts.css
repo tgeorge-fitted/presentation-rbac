@@ -1,0 +1,25 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.reveal section{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+  display: flex;
+}
+
+.col{
+  flex: 1;
+}
+
+.reveal li {
+  white-space: nowrap;
+  font-size: 0.6em;
+}
