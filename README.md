@@ -7,4 +7,4 @@
 
 ## Develop
 
-    docker run -it --rm -p 8080:8000 -v $PWD:/presentation pres-rbac-basics:latest
+    docker run -it --rm -p 8080:8000 -v $PWD/presentation:/presentation pres-rbac-basics:latest
